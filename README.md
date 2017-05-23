@@ -1,3 +1,3 @@
 # hello-world
-Just another repository
-The robot is alive
+Just another repository.
+The robot is alive.
